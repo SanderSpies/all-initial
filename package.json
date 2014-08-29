@@ -1,0 +1,23 @@
+{
+  "name": "all-initial",
+  "version": "0.0.1",
+  "description": "A polyfill for the all:initial CSS property",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SanderSpies/all-initial.git"
+  },
+  "keywords": [
+    "css",
+    "polyfill",
+    "all",
+    "initial",
+    "react-style"
+  ],
+  "author": "Sander Spies <sandermail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SanderSpies/all-initial/issues"
+  },
+  "homepage": "https://github.com/SanderSpies/all-initial"
+}
